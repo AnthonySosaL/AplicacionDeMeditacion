@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/TipoTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SESIÓN MEDITACIÓN"
+            android:textColor="@color/switc"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/selectedTimeTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tiempo Seleccionado"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/durationTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Duración"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/completedTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Completada"
+            android:textStyle="bold"/>
+    </LinearLayout>
+</LinearLayout>

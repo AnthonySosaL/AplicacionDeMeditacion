@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorfondo1" /> <!-- Color de fondo -->
+    <corners android:radius="20dp"/> <!-- Radio de las esquinas redondeadas -->
+    <!-- Agrega aquí otras propiedades si lo necesitas, como bordes, gradientes, etc. -->
+</shape>

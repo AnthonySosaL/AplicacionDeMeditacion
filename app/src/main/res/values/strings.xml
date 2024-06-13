@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RESILIENCE</string>
+    <string name="USUARIO">USUARIO</string>
+    <string name="CONTRASEÑA">CONTRASEÑA</string>
+    <string name="CONFIRMARCONTRASEÑA">CONFIRMAR CONTRASEÑA</string>
+    <string name="INGRESAR">INGRESAR</string>
+    <string name="REGISTRARSE">REGISTRARSE</string>
+    <string name="REGRESAR">REGRESAR</string>
+    <string name="REGISTRAR">REGISTRAR</string>
+    <string name="MEDITACIÓN">MEDITACIÓN</string>
+    <string name="RESPIRACIÓN">RESPIRACIÓN</string>
+    <string name="CONSEJOS">CONSEJOS</string>
+    <string name="PROGRESO">PROGRESO</string>
+    <string name="TIEMPO">TIEMPO</string>
+    <string name="ESTADISTICAS">ESTADISTICAS</string>
+    <string-array name="time_periods">
+        <item>Últimos 30 días</item>
+        <item>Mes anterior</item>
+        <item>Últimos 90 días</item>
+        <item>Anual</item>
+    </string-array>
+    <string-array name="consejos_niveles">
+        <item>Inicial</item>
+        <item>Intermedio</item>
+        <item>Avanzado</item>
+    </string-array>
+
+
+
+</resources>

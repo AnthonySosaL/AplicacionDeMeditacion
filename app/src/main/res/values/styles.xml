@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomProgressBarBackground">
+        <item name="android:background">@color/switc1</item>
+        <!-- Otros atributos de estilo si los necesitas -->
+    </style>
+
+    <style name="CustomProgressBar">
+        <item name="android:progressBackgroundTint">@color/switc</item>
+        <!-- Otros atributos de estilo si los necesitas -->
+    </style>
+
+</resources>
